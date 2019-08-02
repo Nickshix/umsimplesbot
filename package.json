@@ -1,0 +1,17 @@
+{
+  "name": "exemplo",
+  "version": "0.0.1",
+  "description": "Modelo bot.js",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "jimp": "^0.6.4",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Discord ID: 551658291474989076",
+  "license": "ISC"
+}
